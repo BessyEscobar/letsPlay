@@ -30,7 +30,7 @@ To run the game locally, follow these steps:
   - npm install
 4. Run the application:
   - npm run dev
-5. Open the browser and visit [http://localhost:5173/] to play the game.
+5. Open the browser and visit http://localhost:5173/ to play the game.
 
 ## How to Play
 - Use the arrow keys (or WASD keys) to control the snake's movement.
